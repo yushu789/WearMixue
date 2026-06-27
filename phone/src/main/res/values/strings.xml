@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mixue Phone Login</string>
+    <string name="phone_status_watch_url_empty">Watch URL is empty</string>
+    <string name="phone_status_session_missing">Paste a Kuaishou-authorized Mixue session</string>
+    <string name="phone_status_sending">Sending token to watch...</string>
+    <string name="phone_status_token_sent">Token sent. Watch should now be logged in.</string>
+    <string name="phone_status_failed_to_reach">Failed to reach watch at %1$s</string>
+    <string name="phone_status_watch_url_scanned">Watch URL filled from QR code</string>
+    <string name="phone_title_auth_relay">Mixue auth relay</string>
+    <string name="phone_subtitle_auth_relay">Use a Kuaishou-authorized Mixue session</string>
+    <string name="phone_label_watch_url">http://192.168.x.x:port/token</string>
+    <string name="phone_label_session_json">Login JSON or token JSON</string>
+    <string name="phone_action_scan_qr">Scan QR code</string>
+    <string name="phone_action_scan_image">Scan from image</string>
+    <string name="phone_action_send_to_watch">Send to watch</string>
+    <string name="phone_status_done">Done</string>
+    <string name="phone_action_login_again">Log in again</string>
+    <string name="phone_scan_title">Scan watch QR code</string>
+    <string name="phone_scan_hint">Point the camera at the QR code shown on the watch.</string>
+    <string name="phone_scan_permission_needed">Camera permission is needed to scan the watch QR code.</string>
+    <string name="phone_scan_action_grant_permission">Grant camera permission</string>
+    <string name="phone_scan_action_cancel">Cancel</string>
+    <string name="phone_scan_camera_failed">Camera failed to start: %1$s</string>
+    <string name="phone_scan_image_no_qr">No watch QR code was found in that image.</string>
+    <string name="phone_scan_image_failed">Failed to read image: %1$s</string>
+</resources>

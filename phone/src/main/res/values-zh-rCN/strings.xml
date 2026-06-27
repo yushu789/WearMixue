@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">腕上蜜雪</string>
+    <string name="phone_status_watch_url_empty">手表地址为空</string>
+    <string name="phone_status_session_missing">请粘贴已通过快手授权的蜜雪会话</string>
+    <string name="phone_status_sending">正在发送登录令牌到手表...</string>
+    <string name="phone_status_token_sent">令牌已发送，手表应该已经登录。</string>
+    <string name="phone_status_failed_to_reach">无法连接到手表：%1$s</string>
+    <string name="phone_status_watch_url_scanned">已从二维码读取手表地址</string>
+    <string name="phone_title_auth_relay">蜜雪授权中继</string>
+    <string name="phone_subtitle_auth_relay">使用已通过快手授权的蜜雪会话</string>
+    <string name="phone_label_watch_url">http://192.168.x.x:端口/token</string>
+    <string name="phone_label_session_json">登录 JSON 或令牌 JSON</string>
+    <string name="phone_action_scan_qr">扫描二维码</string>
+    <string name="phone_action_scan_image">从图片识别</string>
+    <string name="phone_action_send_to_watch">发送到手表</string>
+    <string name="phone_status_done">完成</string>
+    <string name="phone_action_login_again">重新登录</string>
+    <string name="phone_scan_title">扫描手表二维码</string>
+    <string name="phone_scan_hint">将摄像头对准手表上显示的二维码。</string>
+    <string name="phone_scan_permission_needed">需要相机权限才能扫描手表二维码。</string>
+    <string name="phone_scan_action_grant_permission">授予相机权限</string>
+    <string name="phone_scan_action_cancel">取消</string>
+    <string name="phone_scan_camera_failed">相机启动失败：%1$s</string>
+    <string name="phone_scan_image_no_qr">这张图片里没有识别到手表二维码。</string>
+    <string name="phone_scan_image_failed">图片读取失败：%1$s</string>
+</resources>
