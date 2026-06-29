@@ -60,6 +60,12 @@ After login succeeds, you can choose a store, browse products, select options, a
 | --- | --- |
 | ![Menu](docs/images/menu-list.png) | ![Product options](docs/images/product-options.png) |
 
+### Result
+
+A successful order placed with Wear Mixue — a cup of Snow King Snow Top Coffee:
+
+![Order result](docs/images/order-result.jpg)
+
 ## License
 
 Wear Mixue is released under the [MIT License](LICENSE).
