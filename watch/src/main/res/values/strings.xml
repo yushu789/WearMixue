@@ -21,7 +21,6 @@
     <string name="qr_connect_wifi">Connect watch to WiFi</string>
     <string name="qr_bluetooth_unreachable">(Bluetooth-only is not reachable)</string>
     <string name="qr_scan_with_phone_app">Scan with the phone login app</string>
-    <string name="action_back">Back</string>
     <string name="manual_token_title">Manual token</string>
     <string name="manual_token_body">Paste login JSON or fill fields</string>
     <string name="manual_login_json_label">login JSON</string>
@@ -34,12 +33,12 @@
     <string name="manual_phone_label">phone (optional)</string>
     <string name="action_save">Save</string>
     <string name="manual_token_hint">Browsing needs token; ordering needs customerId + seqNum</string>
-    <string name="stores_title">Nearby stores</string>
+    <string name="stores_title">Order</string>
     <string name="debug_title">Debug</string>
-    <string name="action_refresh">Refresh</string>
     <string name="stores_waiting_location">Waiting for location</string>
     <string name="orders_title">Orders</string>
     <string name="last_status">Last: %1$s</string>
+    <string name="logout_confirm_prompt">是否退出登录？</string>
     <string name="action_logout">Logout</string>
     <string name="pay_amount">Pay %1$s</string>
     <string name="cancel_order_prompt">Cancel this order?</string>
@@ -53,11 +52,9 @@
     <string name="coupon_prefix">Coupon %1$s</string>
     <string name="coupon_item">Coupon item</string>
     <string name="regular_item">Regular item</string>
-    <string name="default_selection">Default</string>
-    <string name="action_quote">Quote</string>
+    <string name="action_quote">Checkout</string>
     <string name="action_order">Order</string>
     <string name="submitted_title">Submitted</string>
-    <string name="selected_prefix">*%1$s</string>
     <string name="currency_cny">CNY %1$.2f</string>
     <string name="status_making">Making</string>
     <string name="status_ready">Ready</string>
