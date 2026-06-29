@@ -8,9 +8,42 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
 
 private val DarkColorScheme = darkColorScheme(
-    primary = MixueRed80,
-    secondary = Mint80,
-    tertiary = Honey80
+    primary = MixuePrimary,
+    onPrimary = MixueOnPrimary,
+    primaryContainer = MixuePrimaryContainer,
+    onPrimaryContainer = MixueOnPrimaryContainer,
+    inversePrimary = MixueInversePrimary,
+    secondary = MixueSecondary,
+    onSecondary = MixueOnSecondary,
+    secondaryContainer = MixueSecondaryContainer,
+    onSecondaryContainer = MixueOnSecondaryContainer,
+    tertiary = MixueTertiary,
+    onTertiary = MixueOnTertiary,
+    tertiaryContainer = MixueTertiaryContainer,
+    onTertiaryContainer = MixueOnTertiaryContainer,
+    background = MixueBackground,
+    onBackground = MixueOnBackground,
+    surface = MixueSurface,
+    onSurface = MixueOnSurface,
+    surfaceVariant = MixueSurfaceVariant,
+    onSurfaceVariant = MixueOnSurfaceVariant,
+    surfaceTint = MixueSurfaceTint,
+    inverseSurface = MixueInverseSurface,
+    inverseOnSurface = MixueInverseOnSurface,
+    error = MixueError,
+    onError = MixueOnError,
+    errorContainer = MixueErrorContainer,
+    onErrorContainer = MixueOnErrorContainer,
+    outline = MixueOutline,
+    outlineVariant = MixueOutlineVariant,
+    scrim = MixueScrim,
+    surfaceContainerLowest = MixueSurfaceContainerLowest,
+    surfaceContainerLow = MixueSurfaceContainerLow,
+    surfaceContainer = MixueSurfaceContainer,
+    surfaceContainerHigh = MixueSurfaceContainerHigh,
+    surfaceContainerHighest = MixueSurfaceContainerHighest,
+    surfaceBright = MixueSurfaceBright,
+    surfaceDim = MixueSurfaceDim
 )
 
 @Composable
