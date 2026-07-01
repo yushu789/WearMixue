@@ -67,10 +67,6 @@ POST https://third-activity.mxbc.net/activity/v1/app/ks/tiny-app/decryptPhoneNum
 
 这款软件更适合在校高中生等轻量使用场景：平时先在快手极速版买好券，需要的时候用手表快速下单，到店直接看取餐码取餐。
 
-## 致谢
-
-感谢 [LINUX DO](https://linux.do/) 社区。
-
 ## License
 
 本项目基于 [MIT License](LICENSE) 开源。
