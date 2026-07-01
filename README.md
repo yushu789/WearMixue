@@ -11,7 +11,6 @@ This app is designed for lightweight everyday scenarios, especially campus use. 
 ## Disclaimer
 
 > This is an unofficial project for learning and personal use only.
-> Please delete this project within 24 hours after downloading or cloning it.
 > Any use of this project is at your own risk. The author is not responsible for any loss, account issue, service restriction, legal dispute, or other consequence caused by using this project.
 
 ## Features
