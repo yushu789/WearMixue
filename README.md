@@ -68,7 +68,3 @@ A successful order placed with Wear Mixue — a cup of Snow King Snow Top Coffee
 ## License
 
 Wear Mixue is released under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-Thanks to the [LINUX DO](https://linux.do/) community.
